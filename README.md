@@ -1,1 +1,1 @@
-KONRAOdd
+This is my university work.
